@@ -1,2 +1,2 @@
-# cs_functional_module_template
+# CS Functional Module Template
 Starting point to building a functional module
